@@ -385,7 +385,7 @@
 				    <p style="float: left;line-height: 25px; font-size: 14px;  width: 100%;">In addition to the fake gps, it can further simulate the real movement within a certain range, so as to be more real.</p>
 				   
 				    
-				    
+				   
 				   
 				    <p style="font-size: 18px; float: left;margin-top: 20px;width: 100%;">Not compatible</p>
 				    <p style="float: left;line-height: 25px; font-size: 14px;  margin-top: 5px;">No all applications can be cloned! The cloned app may crash, display errors, or not work properly.</p>
